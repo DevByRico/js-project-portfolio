@@ -1,0 +1,11 @@
+.footer {
+  background: var(--clr-accent);
+  color: var(--clr-white);
+  text-align: center;
+  padding: 1rem;
+  font-size: 0.9rem;
+}
+.footer a {
+  color: var(--clr-white);
+  font-weight: 500;
+}
