@@ -35,8 +35,8 @@ index.html         # Main landing page
 
 Feel free to reach out if you’d like to collaborate or have any questions!
 
-- Email: [devbyrico@gmail.com]
-- LinkedIn: [-]
+- Email: [devbyrico@gmail.com](mailto:devbyrico@gmail.com)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dev-by-rico)
 
 ---
 
