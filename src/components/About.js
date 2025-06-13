@@ -9,6 +9,7 @@ export default function About() {
       <p>My background in IT support, logistics, and leadership has taught me how to thrive in fast-paced, practical environments. I’m comfortable diving into complex systems, learning quickly, and finding smart solutions to technical challenges—whether it’s debugging code, improving workflows, or supporting a team.</p>
       <p>Outside of coding, I enjoy staying active and exploring new tech. I have a natural aptitude for IT and love analyzing problems to find efficient solutions.</p>
       <p>Contact: <a href="mailto:devbyrico@gmail.com">devbyrico@gmail.com</a></p>
+      <p>Contact: <a href="mailto:devbyrico@gmail.com">devbyrico@gmail.com</a></p>
     </section>
   );
 }
