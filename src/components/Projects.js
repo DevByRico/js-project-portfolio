@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import './Projects.css';
+
 
 export default function Projects() {
   const [repos, setRepos] = useState([]);
