@@ -12,7 +12,8 @@ import { Services } from "./components/Services";
 import { Projects } from "./components/Projects";
 import { Thoughts } from "./components/Thoughts";
 import { Contact } from "./components/Contact";
-import { Footer } from "./components/Footer";
+import Footer from "./components/Footer";
+
 
 const Page = {
   maxWidth: "1000px",
