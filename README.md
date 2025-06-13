@@ -13,7 +13,7 @@ This portfolio includes:
 
 ## 🌐 Live Demo
 
-[Portfolio](https://devfolio-rn.netlify.app)
+[Portfolio](https://js-portfolio-rn.netlify.app/)
 
 ## 💻 Technologies Used
 
